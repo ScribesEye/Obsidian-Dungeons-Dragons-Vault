@@ -36,7 +36,7 @@ Short rests interact with the Overclock the following ways:
 #### Long Rests
 Long rests interact with the Overclock in the following ways:
 - A Long Rest in a well traveled location provokes 3 rolls of the clock dice and increases the size of the clock dice 1 step afterwards.
-- A Long Rest Provokes no roll of if you take it in a secret or hidden location and increases the size of the clock dice 1 step afterwards.
+- A Long Rest Provokes no roll of if you take it in a secret or hidden location but increases the size of the clock dice 1 step afterwards.
 - Everything in-between provokes 1 or 2 rolls of the clock dice (default to 2 if in doubt) and increases the size of the clock dice 1 step afterwards.
-- Any Long Rest outside not in an [[Hexcrawl Rules/Rules & Glossary/Glossary/Outpost\|Outpost]], [[Hexcrawl Rules/Rules & Glossary/Glossary/Fort\|Fort]] or [[Hexcrawl Rules/Rules & Glossary/Glossary/Dungeon\|Dungeon]] decreases the size of the clock dice by 1 step.
+- Any Long Rest outside and not in an [[Hexcrawl Rules/Rules & Glossary/Glossary/Outpost\|Outpost]], [[Hexcrawl Rules/Rules & Glossary/Glossary/Fort\|Fort]] or [[Hexcrawl Rules/Rules & Glossary/Glossary/Dungeon\|Dungeon]] decreases the size of the clock dice by 1 step.
 - A Long Rest in a [[Hexcrawl Rules/Sanctuary/Sanctuary\|Sanctuary]] resets the the clock dice to a d6 and resets the clock cycle, setting the clocks value to 20.

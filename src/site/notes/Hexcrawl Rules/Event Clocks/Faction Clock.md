@@ -8,7 +8,7 @@ The Faction Clock starts at 20 and counts down to 0 using a clock dice. Once the
 #### Party Related Events
 If the clock reaches 0 while the players are in the factions territory, roll 1d6 to determine if what the party encounters. on a 1-2 they encounter a patrol from that faction. On a 3-4 they encounter the triggered event traveling during the next adventure day (next hex), allowing them to interfere if they wish. On a 5-6 nothing happens for the party unless they are nearby the affected hexes, in which case they learn of the event.
 
-If the players are on the hex where the event takes place they can notice the event approaching by having a character on watch pass a DC 15 Wisdom (Perception) check during their rest. If they do they have the amount of time it takes to enter their current hex to respond to the approaching event.  On a fail the roll a d4, on a 4 the party wakes as the event enters their hex, on anything else the event takes place during the 2 morning hours spent packing up camp. 
+If the players are on the hex where the event takes place they can notice the event approaching by having a character on watch pass a DC 15 Wisdom (Perception) check during their rest. If they do they have the amount of time it takes to enter their current hex to respond to the approaching event. On a fail roll a d4, on a 4 the party wakes as the event enters their hex, on anything else the event takes place during the 2 morning hours spent packing up camp. To determine the exact time roll 2d6 and 1d10 to determine when during the watch the event takes place.
 ### Clock Dice
 As the players explore the [[Hexcrawl Rules/Rules & Glossary/Glossary/Hexmap\|Hexmap]] roll a *Clock Dice*, at the beginning this is a d6. As the event dice is rolled the clock dice can increase or decrease in size in the following order of steps, d6 <-> d8 <-> d10 <-> d12 <-> d20.
 ### Rolling the Clock Dice
@@ -22,7 +22,7 @@ The Overclock and its Clock Dice has the following mechanics:
 The Event dice is rolled upon the start of a new clock cycle and its effect is resolved at the end of the same clock cycle.
 The Event Dice is d6 and has the following results:
 
-| 6     | [[Hexcrawl Rules/Factions/Faction Events/Hexcrawl Faction Conquest\|Conquest]] (Increase Clock Dize Size of Both Factions)                              |
+| 6     | [[Hexcrawl Rules/Factions/Faction Events/Hexcrawl Faction Conquest\|Conquest]] (Increase Clock Dize Size of All Involved Factions)                      |
 | ----- | ---------------------------------------------------------------------------------------------------------------- |
 | 5     | [[Hexcrawl Rules/Factions/Faction Events/Hexcrawl Faction Develop\|Develop]] / [[Hexcrawl Rules/Factions/Faction Events/Hexcrawl Faction Replenish\|Replenish]]                                |
 | 4     | [[Hexcrawl Rules/Factions/Faction Events/Hexcrawl Faction Technological Advancement\|Technological Advancement]]                                        |

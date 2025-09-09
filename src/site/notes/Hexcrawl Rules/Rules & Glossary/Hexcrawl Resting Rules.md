@@ -49,4 +49,4 @@ Regain a number of points equal to the characters proficiency bonus.
 ##### Lay on Hands
 One use of lay on hands is counted as 5 hit points.
 ##### Resource Dice (Battlemaster, Second Wind)
-Regains a number of dice uses equal to the characters level.
+Regains a number of dice uses equal to the characters proficiency bonus.
