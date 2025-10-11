@@ -33,7 +33,7 @@ If a long rest is taken in an allied [[Hexcrawl Rules/Sanctuary/Sanctuary\|Sanct
 - Reduce their level of exhaustion by 1.
 ##### Poor Quality Long Rest
 Long resting without taking a camp watch, represented by going to sleep without sufficient shelter and food, leads to poor recovery. After completing a poor quality long rest a characters may:
-- Spend a hit dice to roll thedice  and regain hp equal to the result plus the characters Constitution modifier.
+- Spend a hit dice to roll the dice and regain hp equal to the result plus the characters Constitution modifier.
 - Regain one use of an ability that recovers on a short rest (option, half or full proficiency bonus uses).
 - Spend a hit dice to recover proficiency bonus amount of uses of short rest abilities. (Warlock 1 slot equals one hit dice, paladin 1 use of lay of hands equals 5hp).
 - Spend ***one*** hit dice to regain a number of uses equal to their proficiency bonus of abilities that recover on a long rest.

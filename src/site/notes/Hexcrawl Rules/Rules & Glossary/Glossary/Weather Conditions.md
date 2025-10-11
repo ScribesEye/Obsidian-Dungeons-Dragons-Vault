@@ -15,14 +15,14 @@ Below is a table of the different types of weather and their effects with the fo
 | Clear            | 1     | 5          | ADV        | -        | ADV      | -       |
 | Overcast         | 1     | 4          | -          | -        | -        | -       |
 | Cloudy           | 1     | 3          | -          | -        | -        | -       |
-| Foggy            | 3/4   | 0          | DIS        | -        | DIS      | -       |
+| Foggy            | 1/2   | 0          | DIS        | -        | DIS      | -       |
 | Rain (light)     | 1     | 2          | -          | -        | -        | -       |
-| Rain (moderate)  | 3/4   | 1          | -          | -        | -        | Camp    |
-| Rain (heavy)     | 3/4   | 0          | DIS        | DIS      | DIS      | Shelter |
+| Rain (moderate)  | 1/2   | 1          | -          | -        | -        | Camp    |
+| Rain (heavy)     | 1/2   | 0          | DIS        | DIS      | DIS      | Shelter |
 | Monsoon          | 1/2   | 0          | DIS        | DIS      | DIS      | Shelter |
-| Storm            | 3/4   | 1          | DIS        | DIS      | DIS      | Camp    |
+| Storm            | 1/2   | 1          | DIS        | DIS      | DIS      | Camp    |
 | Storm (powerful) | 1/2   | 0          | DIS        | DIS      | DIS      | Shelter |
-| Hurricane        | 1/10) | 0          | DIS        | DIS      | DIS      | Shelter |
+| Hurricane        | 1/10  | 0          | DIS        | DIS      | DIS      | Shelter |
 | Snow (Light)     | 1     | 2          | DIS        | -        | -        | -       |
 | Snow (moderate)  | 1/2   | 1          | DIS        | DIS      | DIS      | Camp    |
 | Snow (heavy)     | 1/4   | 0          | DIS        | DIS      | DIS      | Camp    |
@@ -31,9 +31,9 @@ Weather Conditions can be combined with the following adverse temperature condit
 | Temperature | Speed | Visibility | Navigation | Marching | Foraging | Resting |
 | ----------- | ----- | ---------- | ---------- | -------- | -------- | ------- |
 | Hot         | 1     | -          | -          | DIS      | -        | -       |
-| Scorching   | 3/4   | -          | DIS        | DIS      | DIS      | Camp    |
+| Scorching   | 1     | -          | DIS        | DIS      | DIS      | Camp    |
 | Cold        | 1     | -          | -          | DIS      | -        | Camp    |
-| Freezing    | 3/4   | -          | DIS        | DIS      | DIS      | Shelter |
+| Freezing    | 1     | -          | DIS        | DIS      | DIS      | Shelter |
 
 ##### Optional Rule - Severe Weathers
 Certain weather are considered severe, indicated by either or both a visibility of 0 or a shelter resting requirement. In these conditions traveling along a coastline, tree line or river does not cause characters to automatically succeed on navigation checks.
@@ -43,19 +43,19 @@ To determine the weather condition for the day, roll 2d6 at the end of a long re
 | Roll  | Weather               | Speed | Visibility | Navigation | Marching | Foraging | Resting |
 | ----- | --------------------- | ----- | ---------- | ---------- | -------- | -------- | ------- |
 | 2     | Dust Storm (Powerful) | 1/2   | 0          | DIS        | DIS      | DIS      | Shelter |
-| 3     | Dust Storm            | 3/4   | 1          | DIS        | DIS      | DIS      | Camp    |
+| 3     | Dust Storm            | 1/2   | 1          | DIS        | DIS      | DIS      | Camp    |
 | 4-6   | Hot and Dry           | 1     | 4          | -          | DIS      | -        | -       |
 | 7-9   | Warm and Windy        | 1     | 4          | -          | -        | -        | -       |
 | 10    | Warm and Light Rain   | 1     | 2          | -          | -        | -        | -       |
-| 11-12 | Clear & Scorching     | 3/4   | 5          | DIS        | DIS      | DIS      | Camp    |
+| 11-12 | Clear & Scorching     | 1     | 5          | DIS        | DIS      | DIS      | Camp    |
 
 #### Weather Table 2 - Salt Desert Autumn
 
 | Roll  | Weather               | Speed | Visibility | Navigation | Marching     | Foraging | Resting     |
 | ----- | --------------------- | ----- | ---------- | ---------- | ------------ | -------- | ----------- |
 | 2     | Dust Storm (Powerful) | 1/2   | 0          | DIS        | DIS          | DIS      | Shelter     |
-| 3     | Dust Storm            | 3/4   | 1          | DIS        | DIS          | DIS      | Camp        |
+| 3     | Dust Storm            | 1/2   | 1          | DIS        | DIS          | DIS      | Camp        |
 | 4-6   | Hot and Dry           | 1     | 4          | -          | DIS          | -        | -           |
 | 7-9   | Warm and Windy        | 1     | 4          | -          | -            | -        | -           |
 | 10    | Cold Nights           | 1     | 4          | -          | DIS at night | -        | Camp  night |
-| 11-12 | Heavy Rain            | 3/4   | 0          | DIS        | DIS          | DIS      | Shelter     |
+| 11-12 | Heavy Rain            | 1/2   | 0          | DIS        | DIS          | DIS      | Shelter     |

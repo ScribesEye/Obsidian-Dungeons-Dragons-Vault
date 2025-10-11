@@ -30,9 +30,12 @@ If successful the tracker can make a Wisdom (Survival) check against the track D
 If a character is attempting to follow their own tracks they make the checks with advantage.
 ##### Scout Ahead
 A character can scout ahead to attempt to learn more about the lay of the land and help chart a course. If the navigator of the party receives a scout’s report or the scout uses the information themselves, they gain advantage on their navigation checks for the next travel watch (optional, change to +3 bonus).
+##### Improve Camp
+A character can spend an active watch gathering nearby materials to increase the comfort of the camp to improve the quality of rest. A character taking this action makes a Wisdom (Survival) or relevant tools check against the Forage DC of the hex, on a success each character gains one hit dice upon completing a long rest in the camp. 
 ##### Optional Rule - Sighting
 A character can spend an active watch finding a good outlook in the current hex and attempt to learn more about the nearby hexes. A character taking this action makes a Wisdom (Perception) or Intelligence (Investigation) check to attempt to find a good location, on a success they can see the terrain type of the hexes beyond the adjacent hexes, if they fail they only see into the adjacent hexes. The character can attempt to make a Wisdom (Perception) check to discover any notable features in the adjacent hexes but takes a -5 penalty to the check due to their distance.
 ##### Short Rest
 A character can spend their Active Watch taking a [[Hexcrawl Rules/Rules & Glossary/Hexcrawl Resting Rules\|Short Rest]] (See below)
 
-**ADD 2 More methods to restore hit dice using watch actions**
+**ADD 1 More methods to restore hit dice using watch actions**
+Tending wounds?
