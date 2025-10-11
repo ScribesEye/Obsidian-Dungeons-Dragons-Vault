@@ -17,7 +17,10 @@ Fleeing through the caves of the Blood Spring Mountains tension are high and mor
 
 ### Rules
 #### Own Characters
-Goblin [race](https://5e.tools/races.html#goblin_mpmm) is preferred to fit in with hexcrawl, but you can also use [hobgoblin](https://5e.tools/races.html#hobgoblin_mpmm) or [bugbear](https://5e.tools/races.html#bugbear_mpmm). Make you own character at level 4, no starting feat, point buy, and either 350 gold for equipment and 1 common magic item or starting gear and 1 uncommon magic item. For magic items hit me up when making characters. 
+Goblin [race](https://5e.tools/races.html#goblin_mpmm) is preferred to fit in with hexcrawl, but you can also use [hobgoblin](https://5e.tools/races.html#hobgoblin_mpmm) or [bugbear](https://5e.tools/races.html#bugbear_mpmm) if you dont feel like playing gobbo. 
+The goblin trait **Fury of the small** is replaced with **Cruel**: Whenever you make an attack roll with advantage, add 1d4 to the damage roll if the attack hits.
+
+Make your own character at level 4, point buy, and either 350 gold for equipment and 1 common magic item or starting gear and 1 uncommon magic item. For uncommon magic items hit me up when making characters. 
 
 For background to your character I want you to think of why you want to protect/serve the specific noble you create, and think about what your home was and what it meant to you before you had to leave it. Also think about how you acquired the magic item and if you are the first goblin owner of this specific item or not.
 #### Noble
@@ -25,3 +28,9 @@ Additionally you are making a level 7 goblin noble together, the noble is suppor
 The noble has the following [banner](https://dnd5e.wikidot.com/wondrous-items:banner-of-the-krig-rune) with him and 2 uncommon magic items of your choosing.
 #### Inspiration
 Some references for how I'm imagining goblins and their culture, [aesthetics](https://www.youtube.com/watch?v=XVF9rS5ThD4) start at 2:50 or 7:50 if you just want reference, then music [1](https://www.youtube.com/watch?v=AX3WB3aNDuk)  and if you want more examples [2](https://www.youtube.com/watch?v=Y4cL9WvLCR4) and [3](https://www.youtube.com/watch?v=t50JFHIupPU). Generally you can look at cultures from the Eurasian steppes for real world references and then toss in some fey and/or chaotic energy for extra flavor. 
+
+#### General Rules
+2024 rules, backwards compatible if there is not a new version in the 2024 rules. Custom backgrounds are allowed
+Flanking a creature gives +2 to attack rolls. An ally can only be considered for flanking if they are conscious and are not themselves flanked. Unarmed strikes can be considered for the weapon mastery property and it has the sap property 
+Additional origin feats: Strike of the giants, Artificer Initiate, Meta magic adept, Divinely Favored, Gift of the Chromatic Dragon, Gift of the Metallic Dragon, Martial Adept 
+Find familiar: It shares your initiative and goes before your turn.
