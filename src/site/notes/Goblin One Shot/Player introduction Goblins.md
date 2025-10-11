@@ -30,7 +30,7 @@ The noble has the following [banner](https://dnd5e.wikidot.com/wondrous-items:ba
 Some references for how I'm imagining goblins and their culture, [aesthetics](https://www.youtube.com/watch?v=XVF9rS5ThD4) start at 2:50 or 7:50 if you just want reference, then music [1](https://www.youtube.com/watch?v=AX3WB3aNDuk)  and if you want more examples [2](https://www.youtube.com/watch?v=Y4cL9WvLCR4) and [3](https://www.youtube.com/watch?v=t50JFHIupPU). Generally you can look at cultures from the Eurasian steppes for real world references and then toss in some fey and/or chaotic energy for extra flavor. 
 
 #### General Rules
-2024 rules, backwards compatible if there is not a new version in the 2024 rules. Custom backgrounds are allowed
+2024 rules, backwards compatible if there is not a new version in the 2024 rules, UA (unearthed arcana) and unofficial sourcebooks can be allowed if you check with me first. Custom backgrounds are allowed
 Flanking a creature gives +2 to attack rolls. An ally can only be considered for flanking if they are conscious and are not themselves flanked. Unarmed strikes can be considered for the weapon mastery property and it has the sap property 
 Additional origin feats: Strike of the giants, Artificer Initiate, Meta magic adept, Divinely Favored, Gift of the Chromatic Dragon, Gift of the Metallic Dragon, Martial Adept 
 Find familiar: It shares your initiative and goes before your turn.
